@@ -1,0 +1,79 @@
+.contact--container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    
+    
+}
+
+.contactForm{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+}
+
+.contact--container--title{
+    text-align: center;
+}
+
+.contactText{
+    font-size: 21px;
+}
+label{ 
+    display: block;
+    margin-bottom: 24px;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+/*.form--name{ 
+    margin-bottom: 88.7px;
+}*/
+
+.sender--name{ 
+    margin-bottom: 88.7px;
+}
+
+
+
+input, textarea{
+    padding: 6px 20px;
+    line-height: 1.2rem;
+    border-radius: 4px;
+    width: 400px;
+    border: 1px solid rgb(141, 140, 140);
+}
+
+textarea{
+    resize: none;
+}
+.form--button{
+    width: 1000px;
+    text-align: right;
+}
+
+.sendMailButton{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1.1rem;
+  
+    right: 0px;
+   
+}
+
+.sendMailButton:hover,
+.sendMailButton:focus{
+  background-color:  rgb(194, 103, 23);
+  color: white;
+}
+
+
