@@ -7,10 +7,10 @@ export default[
 },
 
 {   key : 2 , 
-    name : "Meme Generator",
-    language : "Js/React work",
-    image : "/MemeGeneratorImage.png",
-    link : "https://lucky-klepon-8d6a3d.netlify.app",
+    name : "Personal Dashboard",
+    language : "Js work (API)",
+    image : "/PersonalDashboard.png",
+    link : "https://dapper-muffin-a42ede.netlify.app",
 },
 
 {   key : 3 , 
