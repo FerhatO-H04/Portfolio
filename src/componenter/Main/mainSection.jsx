@@ -10,7 +10,7 @@ export function MainSection(){
             <a className="learn-about-me" href="#">See more about me <i className="fa-solid fa-arrow-right"></i></a> 
           </div>
           <div className="icons">
-            <i className="icon fa-brands fa-github fa-2x"></i>
+            <a href="https://github.com/FerhatO-H04"><i className="icon fa-brands fa-github fa-2x"></i></a>
             <i className="icon fa-brands fa-x-twitter fa-2x"></i>
             
             <a href="https://www.linkedin.com/in/ferhat-orasan-831658273" target="_blank"><i className="icon fa-brands fa-linkedin fa-2x"></i></a>
