@@ -1,5 +1,6 @@
 import "./about.css"
-import {ContactButton} from "./contactButton"
+import { Link } from 'react-router-dom';
+
 
 
 
@@ -31,7 +32,7 @@ export function About(){
                     If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
                 </p>
 
-                <ContactButton/>
+               <Link   to="/contact"><button className="contactButton" >CONTACT</button></Link>
             </div>
 
             <div className="mySkillsContainer">

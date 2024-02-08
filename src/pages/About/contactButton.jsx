@@ -1,6 +1,7 @@
-import  "./contactButton.css"
+/*import  "./contactButton.css"
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate,Link } from 'react-router-dom';
+
 
 export function ContactButton () {
     const navigate = useNavigate();
@@ -11,8 +12,8 @@ export function ContactButton () {
 
     return (
         
-        <button className="contactButton" onClick={handleClick}>CONTACT</button>
+        <button ><Link className="contactButton" onClick={handleClick}  to="/contact">CONTACT</Link></button>
     );
 };
 
-export default ContactButton;
+export default ContactButton;*/
