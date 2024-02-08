@@ -14,7 +14,7 @@ export function MainSection(){
             <a href="https://github.com/FerhatO-H04"><i className="icon fa-brands fa-github fa-2x"></i></a>
             <i className="icon fa-brands fa-x-twitter fa-2x"></i>
             
-            <a href="https://www.linkedin.com/in/ferhat-orasan-831658273" target="_blank"><i className="icon fa-brands fa-linkedin fa-2x"></i></a>
+            <a href="https://www.linkedin.com/in/ferhat-o-831658273/" target="_blank"><i className="icon fa-brands fa-linkedin fa-2x"></i></a>
           </div>
          </section>
         </>
